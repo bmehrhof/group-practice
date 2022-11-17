@@ -1,2 +1,2 @@
-# group-practice
-group practice 
+# Group-Respository-Practice
+repository team project
